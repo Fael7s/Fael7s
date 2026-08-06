@@ -1,34 +1,39 @@
-# Olá, mundo! Sou o Rafael 👋
+# Olá, mundo! Sou o Rafael Oliveira Teixeira 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Desenvolvedor%20FullStack%20%2F%20Backend-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Foco-APIs%20%7C%20Cloud%20%7C%20Dashboard-orange?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Software-Engineer-blue?style=flat-square&logo=git" alt="Software Engineer">
+  <img src="https://img.shields.io/badge/English-C1%2FC2-green?style=flat-square" alt="English C1/C2">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20%2F%20Hybrid-orange?style=flat-square" alt="Open to Work">
+  <a href="https://www.linkedin.com/in/rafael-oliveira-teixeira-138897336/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de software, criação de APIs robustas, arquiteturas escaláveis e interfaces modernas.
+Sou **Software Engineer** com forte atuação em desenvolvimento **FullStack & Backend**, especializado em **JavaScript, TypeScript, Node.js, Python e FastAPI**. Possuo fluência em inglês (**C1/C2**) e foco na construção de aplicações escaláveis, APIs de alta performance e arquiteturas modernas. Atualmente baseado em Juiz de Fora (MG), estou aberto a oportunidades remotas e híbridas.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🛠️ Competências & Tecnologias
 
-| Categoria | Tecnologias |
+| Área | Tecnologias & Ferramentas |
 | :--- | :--- |
 | **Linguagens** | Python, JavaScript, TypeScript |
-| **Backend & APIs** | FastAPI, Node.js, REST APIs |
-| **Cloud & Storage** | AWS S3, Gerenciamento de Arquivos |
-| **Frontend & UI** | HTML5, CSS3, Tailwind CSS, Dashboards Interativos |
-| **Ferramentas** | Git, GitHub, Docker, Linux |
+| **Backend & APIs** | FastAPI, Node.js, RESTful APIs, Arquitetura Escalável |
+| **Cloud & Armazenamento** | AWS S3, Gerenciamento de Arquivos, Logs de Acesso |
+| **Frontend & Interfaces** | HTML5, CSS3, Tailwind CSS, Dashboards Interativos |
+| **Ferramentas & DevOps** | Git, GitHub, Docker, Linux |
+| **Idiomas** | Português (Nativo), Inglês (C1/C2) |
 
 ---
 
 ### 📂 Principais Projetos em Destaque
+
+Aqui estão alguns dos meus projetos públicos que demonstram minha capacidade técnica em arquitetura de software, APIs e interfaces:
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | **[metricflow](https://github.com/Fael7s/metricflow)** | Dashboard analítico de alta performance com interface moderna escura e visualização de dados interativa. | HTML / CSS / JS |
 | **[scalable-file-upload](https://github.com/Fael7s/scalable-file-upload)** | API REST escalável para gerenciamento seguro de arquivos, logs de acesso e links temporários. | Python, FastAPI, AWS S3 |
 | **[taskflow](https://github.com/Fael7s/taskflow)** | Aplicativo de gerenciamento de tarefas com temática industrial, arquitetura modular e persistência local. | JavaScript |
-| **[bank-api](https://github.com/Fael7s/bank-api)** | API bancária robusta desenvolvida para transações e operações financeiras. | Python |
+| **[bank-api](https://github.com/Fael7s/bank-api)** | API bancária robusta desenvolvida para transações e operações financeiras seguras. | Python |
 
 ---
 
@@ -44,4 +49,4 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de softwar
 
 ---
 
-> *"Código limpo, arquitetura escalável e foco em resultados."*
+> *"Construindo soluções robustas, escaláveis e focadas em excelência técnica."*
